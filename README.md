@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp (using WeatherAPI)
 
 # Steps to run this project:
 
@@ -9,4 +9,4 @@
 # Demo
 ![Demo](weather.gif)
 # Note
-Replace API_KEY with your APIKEY received from Weather API
+Replace API_KEY with your *APIKEY* received from Weather API
